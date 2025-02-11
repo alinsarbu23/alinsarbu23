@@ -3,7 +3,7 @@
 - 👀 I’m interested in **software development**, **mobile applications**, and **cross-platform apps**.  
 - 🌱 I’m currently learning **.NET MAUI** for cross-platform mobile development and exploring **Spring Boot** for backend solutions.  
 - 💞️ I’m looking to collaborate on **open-source projects** involving **Java**, **C#**, and **full-stack development**.  
-- 📫 How to reach me: **alinsarbu23@gmail.com**  
+- 📫 How to reach me: **sarbualin23@gmail.com**  
 - 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: **.NET** started as a Windows-only framework but is now fully **cross-platform**!
 
